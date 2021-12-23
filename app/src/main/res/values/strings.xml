@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CV-Generator</string>
+    <string name="name">name</string>
+    <string name="phone">Phone number</string>
+    <string name="email">Email</string>
+    <string name="education">Education details</string>
+    <string name="experience">Work Experience/ Internships</string>
+    <string name="projects">Projects</string>
+    <string name="description">Describe Yourself in few words.</string>
+    <string name="skill">Skills</string>
+    <string name="build_your_cv">Build Your CV</string>
+</resources>
